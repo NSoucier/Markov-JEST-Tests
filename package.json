@@ -1,0 +1,14 @@
+{
+  "name": "markov-jest-test",
+  "version": "1.0.0",
+  "description": "Practice using Jest for testing",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
